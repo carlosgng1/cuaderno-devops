@@ -1,0 +1,4 @@
+# Hoy, día 07/10/2026, he comenzado con la preparación del entorno en mi Pc de sobremesa.
+# El primer paso ha sido instalar Ubuntu en mi PC, para ello, he necesitado descargar la imagen ISO en mi sistema Windows y preparar un USB externo para la instalación. Antes de todo esto, también he preparado Windows, dejando una partición del disco C: de 100 GB para mi nuevo proyecto. He instalado UBUNTU en esta nueva partición.
+# Una vez dentro de Ubuntu, he instalado SDK, VSCode, Java, Maven... He creado mi cuenta GitHub y he añadido las claves SSH para enlazar todas las cuentas.
+# El bloqueo al reducir el disco: archivo de paginación, $UsnJrnl, instantáneas de volumen, los identificamos con el evento 259, eliminamos los eventos que impedían elegir más tamaño para el disco y conseguimos el tamaño deseado de 100 GB
